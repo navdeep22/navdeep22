@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-# Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=navdeep22&show_icons=true&theme=transparent)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=navdeep22&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeep22&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 
 <!--
