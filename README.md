@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navdeep22&repo=github-readme-stats)](https://github.com/navdeep22/github-readme-stats)
 
 <!--
 **navdeep22/navdeep22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
