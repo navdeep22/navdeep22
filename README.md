@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=navdeep22)](https://github.com/anuraghazra/github-readme-stats)
+# Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SanketPaharia&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=navdeep22&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navdeep22&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 <!--
